@@ -14,11 +14,8 @@ Uma visão geral sobre o problema de obsolescência do conhecimento em sistemas 
 ### 2. Solução Proposta
 Uma proposta de arquitetura modular que integra monitoramento de concept drift, coleta de novos dados, atualização de modelos, validação e integração. Cada componente é descrito em detalhes, explicando suas responsabilidades no sistema de aprendizado contínuo.
 
-### 3. Diagrama de Blocos
-Um diagrama de blocos que ilustra o fluxo de dados entre os módulos da arquitetura proposta, mostrando como os diferentes componentes interagem para garantir a atualização contínua dos modelos.
-
-### 4. Conclusão
+### 3. Conclusão
 Considerações sobre os benefícios e os desafios da implementação do aprendizado contínuo, incluindo os esforços necessários em termos de infraestrutura e poder computacional.
 
-### 5. Referências
+### 4. Referências
 As referências utilizadas no desenvolvimento da proposta, todas formatadas de acordo com as normas ABNT.
