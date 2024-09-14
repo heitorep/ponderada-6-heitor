@@ -1,5 +1,7 @@
 # Ponderada 6 - Heitor Prudente
 
+&emsp;&emsp;O documento completo se encontra no arquivo `index.md` nesse mesmo repositório. 
+
 ## Proposta de Aprendizado Contínuo em Sistemas Conversacionais
 
 &emsp;&emsp;Este repositório contém a proposta de Aprendizado Contínuo em Sistemas Conversacionais, abordando como mitigar o problema do concept drift e garantir que sistemas de Processamento de Linguagem Natural (PLN) se mantenham atualizados e precisos ao longo do tempo. O documento foi desenvolvido como parte de uma atividade avaliativa de Engenharia de Software.
